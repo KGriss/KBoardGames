@@ -53,11 +53,6 @@ import flixel.ui.FlxButton;
 import flixel.util.FlxSpriteUtil;
 import flixel.system.FlxAssets.FlxGraphicAsset;
 
-
-#if !html5
-	import sys.FileSystem;
-#end
-
 #if !MOBILE
 	import flixel.input.keyboard.FlxKey;
 #end
